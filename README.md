@@ -18,10 +18,10 @@ This created the framework for future Tensile Strength testers that utilize the 
 [Arduino Mega](https://www.amazon.com/dp/B01H4ZLZLQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 [16 Keys Matrix Keypad](https://www.amazon.com/dp/B07B4DR5SH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
-##Software Dependencies:
-*[Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
-*[HX711](https://github.com/bogde/HX711)
-*[Adafruit VL53L1X Library](https://github.com/adafruit/Adafruit_VL53L1X)
-*[RTClib](https://github.com/adafruit/RTClib)
-*[Keypad library for Arduino](https://github.com/Chris--A/Keypad)
-*[Adafruit ILI9341 Arduino Library](https://github.com/adafruit/Adafruit_ILI9341)
+##Software Dependencies:\
+*[Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)\
+*[HX711](https://github.com/bogde/HX711)\
+*[Adafruit VL53L1X Library](https://github.com/adafruit/Adafruit_VL53L1X)\
+*[RTClib](https://github.com/adafruit/RTClib)\
+*[Keypad library for Arduino](https://github.com/Chris--A/Keypad)\
+*[Adafruit ILI9341 Arduino Library](https://github.com/adafruit/Adafruit_ILI9341)\
