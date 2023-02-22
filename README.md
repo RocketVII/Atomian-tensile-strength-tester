@@ -1,7 +1,13 @@
 # Atomian-tensile strength tester 
  A project that aimed to recreate a tensile strength tester
 
-Video link: https://youtu.be/b_F_LkmHzbg
+Video links:
+https://youtu.be/b_F_LkmHzbg
+ 
+https://youtube.com/shorts/Y3lAOohDtaM
+ 
+https://youtube.com/shorts/8C9w-N7GyHU
+
 ## Repository Contents:
 The Repository contains a the needed documents to recreate the project.
 The project focused on achieve great ease of use functionality by creating a User friendly interface and removing the dependency on the laptop
