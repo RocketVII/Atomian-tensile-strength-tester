@@ -23,6 +23,7 @@ This created the framework for future Tensile Strength testers that utilize the 
 * [TFT LCD display](https://www.adafruit.com/product/1480)
 * [Distance Sensor](https://www.adafruit.com/product/3967)
 * [C clamps](https://www.amazon.com/dp/B0991XPLGM?ref=ppx_yo2ov_dt_b_product_details&th=1)
+* [DS3231 AT24C32 IIC RTC Module Clock](https://www.amazon.com/AT24C32-Replace-Arduino-Batteries-Included/dp/B07Q7NZTQS/ref=sr_1_3?keywords=RTC+Module&qid=1677206649&sr=8-3)
 * [Arduino Mega](https://www.amazon.com/dp/B01H4ZLZLQ?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 * [16 Keys Matrix Keypad](https://www.amazon.com/dp/B07B4DR5SH?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 
